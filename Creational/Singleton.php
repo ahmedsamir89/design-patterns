@@ -7,9 +7,7 @@ class Singleton
     protected static $object;
 
 
-    private function __construct()
-    {}
-
+    private function __construct(){}
 
     /**
      * @return mixed
